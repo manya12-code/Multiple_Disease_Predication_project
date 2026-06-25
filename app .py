@@ -14,10 +14,11 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# Resolve the models folder relative to THIS FILE, not the current working directory.
+# Resolve model files relative to THIS FILE, not the current working directory.
 # This makes the app work no matter where `streamlit run` is launched from.
+# Model files live in the SAME folder as app.py (repo root) — not a "models" subfolder.
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODEL_DIR = os.path.join(BASE_DIR, "models")
+MODEL_DIR = BASE_DIR
 
 
 # --------------------------------------------------------------------------------------
@@ -25,6 +26,18 @@ MODEL_DIR = os.path.join(BASE_DIR, "models")
 # --------------------------------------------------------------------------------------
 @st.cache_resource
 def load_pickle(path):
+    if not os.path.exists(path):
+        # Give a genuinely helpful error instead of a bare FileNotFoundError,
+        # so it's obvious what's missing and where the app is looking.
+        existing = os.listdir(MODEL_DIR) if os.path.isdir(MODEL_DIR) else None
+        st.error(
+            f"**Could not find model file:** `{path}`\n\n"
+            f"Looking inside folder: `{MODEL_DIR}`\n\n"
+            f"Files actually found there: {existing if existing is not None else '⚠️ this folder does not exist at all!'}\n\n"
+            "👉 Make sure this exact file was uploaded to your GitHub repo, in the same "
+            "folder as `app.py`, with the filename spelled exactly the same (case-sensitive)."
+        )
+        st.stop()
     with open(path, "rb") as f:
         return pickle.load(f)
 
@@ -330,4 +343,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-       
