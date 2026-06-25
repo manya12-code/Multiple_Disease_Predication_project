@@ -1,3 +1,4 @@
+import os
 import pickle
 import numpy as np
 import pandas as pd
@@ -13,7 +14,10 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-MODEL_DIR = "models"
+# Resolve the models folder relative to THIS FILE, not the current working directory.
+# This makes the app work no matter where `streamlit run` is launched from.
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MODEL_DIR = os.path.join(BASE_DIR, "models")
 
 
 # --------------------------------------------------------------------------------------
@@ -326,6 +330,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
+       
