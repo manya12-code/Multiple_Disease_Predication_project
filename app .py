@@ -59,7 +59,7 @@ def load_liver_assets():
 @st.cache_resource
 def load_heart_assets():
     scaler = load_pickle(f"{MODEL_DIR}/heart_scaler.pkl")
-    model = load_pickle(f"{MODEL_DIR}/logistic_model(2).pkl")
+    model = load_pickle(f"{MODEL_DIR}/logistic_model (2).pkl")
     return scaler, model
 
 
