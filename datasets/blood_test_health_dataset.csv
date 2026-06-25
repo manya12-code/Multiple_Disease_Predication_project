@@ -1,0 +1,1001 @@
+Age,Gender,Hemoglobin,Glucose,Cholesterol,Systolic_BP,Health_Status
+66,Male,8.9,70.2,204.5,147.0,Anemia Risk
+29,Female,15.9,77.1,210.8,124.0,Normal
+75,Male,14.4,110.7,185.1,130.0,Normal
+35,Male,10.7,123.2,260.7,119.0,Anemia Risk
+38,Male,15.5,149.3,210.1,117.0,Diabetes Risk
+17,Female,12.5,128.1,263.7,92.0,Cholesterol Risk
+36,Male,12.8,104.7,164.0,132.0,Normal
+67,Female,12.2,124.6,164.6,136.0,Normal
+16,Female,14.3,120.5,211.1,106.0,Normal
+44,Male,11.5,171.1,179.5,117.0,Anemia Risk
+52,Male,15.8,115.8,257.4,115.0,Cholesterol Risk
+16,Male,13.2,96.6,203.7,126.0,Normal
+78,Female,12.6,125.7,148.2,112.0,Normal
+74,Male,15.4,116.9,120.5,134.0,Normal
+35,Female,12.7,55.0,186.9,121.0,Normal
+47,Female,15.9,109.5,186.4,82.0,Normal
+72,Male,15.9,106.5,202.6,127.0,Normal
+36,Male,10.2,91.0,238.4,135.0,Anemia Risk
+63,Female,16.3,146.2,233.2,103.0,Diabetes Risk
+73,Female,9.8,82.5,166.8,126.0,Anemia Risk
+56,Female,16.4,125.9,138.2,147.0,Normal
+74,Male,18.6,104.8,140.6,122.0,Normal
+29,Female,15.7,113.8,160.5,137.0,Normal
+76,Male,8.1,124.4,175.3,113.0,Anemia Risk
+76,Female,16.2,64.2,202.2,120.0,Normal
+61,Female,19.1,116.7,158.0,117.0,Normal
+76,Male,12.7,190.1,201.2,114.0,Diabetes Risk
+65,Female,13.4,55.5,204.5,118.0,Normal
+69,Male,10.5,108.0,195.7,96.0,Anemia Risk
+78,Male,14.3,149.3,144.9,115.0,Diabetes Risk
+17,Female,16.7,120.6,208.7,140.0,Normal
+65,Male,15.2,134.1,273.3,106.0,Cholesterol Risk
+21,Male,20.0,50.0,199.8,104.0,Normal
+35,Female,13.6,130.9,100.0,121.0,Normal
+53,Male,9.4,83.3,239.6,122.0,Anemia Risk
+32,Male,13.9,120.8,161.9,126.0,Normal
+18,Male,7.5,109.0,280.6,118.0,Anemia Risk
+74,Female,12.2,189.7,194.7,121.0,Diabetes Risk
+28,Male,17.6,129.1,122.6,115.0,Normal
+23,Female,14.3,106.1,107.4,101.0,Normal
+67,Female,13.9,57.2,251.6,119.0,Cholesterol Risk
+16,Male,18.1,114.2,234.2,131.0,Normal
+74,Male,12.8,138.8,279.0,128.0,Cholesterol Risk
+58,Male,16.7,107.2,190.4,94.0,Normal
+22,Female,13.8,92.3,187.7,124.0,Normal
+61,Male,14.5,90.0,174.7,107.0,Normal
+49,Male,10.5,128.7,163.7,141.0,Anemia Risk
+50,Male,12.3,136.6,174.3,125.0,Normal
+64,Male,10.0,157.6,198.7,133.0,Anemia Risk
+18,Male,13.3,75.2,156.2,120.0,Normal
+16,Female,14.5,128.4,123.2,119.0,Normal
+20,Female,10.7,105.7,196.4,142.0,Anemia Risk
+68,Male,18.6,106.8,155.4,135.0,Normal
+18,Male,14.2,124.1,100.0,122.0,Normal
+68,Male,13.6,124.3,212.1,117.0,Normal
+77,Male,15.4,128.5,145.7,94.0,Normal
+32,Female,11.4,73.0,216.5,125.0,Anemia Risk
+58,Male,13.9,83.8,215.5,118.0,Normal
+48,Female,11.7,162.0,201.3,128.0,Anemia Risk
+76,Female,17.4,102.3,289.9,133.0,Cholesterol Risk
+28,Male,10.9,120.7,184.5,138.0,Anemia Risk
+62,Female,13.7,146.9,178.6,125.0,Diabetes Risk
+29,Female,14.3,126.2,217.3,104.0,Normal
+76,Female,14.5,129.1,187.8,88.0,Normal
+54,Female,12.0,141.3,236.4,108.0,Diabetes Risk
+67,Male,11.3,50.0,139.2,140.0,Anemia Risk
+38,Male,12.1,92.9,139.9,147.0,Normal
+40,Female,14.8,126.4,220.6,116.0,Normal
+74,Male,13.1,158.6,143.4,98.0,Diabetes Risk
+55,Male,15.5,112.3,214.4,110.0,Normal
+43,Male,14.7,80.4,204.8,137.0,Normal
+29,Male,7.8,81.4,162.2,111.0,Anemia Risk
+59,Male,14.1,140.9,204.7,129.0,Diabetes Risk
+79,Female,19.1,102.4,140.6,123.0,Normal
+23,Male,16.8,109.7,150.0,131.0,Normal
+15,Male,14.6,131.5,180.5,147.0,Normal
+22,Male,10.9,50.0,193.2,129.0,Anemia Risk
+77,Male,14.7,180.0,177.9,122.0,Diabetes Risk
+25,Female,15.3,84.4,207.3,149.0,Normal
+22,Female,12.9,118.5,205.5,125.0,Normal
+49,Female,14.3,50.3,251.2,108.0,Cholesterol Risk
+49,Female,17.3,95.2,186.2,130.0,Normal
+47,Male,11.4,153.6,237.8,127.0,Anemia Risk
+19,Female,10.9,50.0,226.8,115.0,Anemia Risk
+55,Male,15.2,149.4,281.8,112.0,Diabetes Risk
+42,Male,14.6,100.4,184.9,116.0,Normal
+21,Male,16.1,127.1,173.2,112.0,Normal
+26,Male,14.9,133.0,240.3,116.0,Cholesterol Risk
+48,Male,12.1,125.4,205.4,107.0,Normal
+47,Female,14.6,79.7,241.3,126.0,Cholesterol Risk
+62,Female,10.6,97.2,218.7,125.0,Anemia Risk
+37,Female,12.9,58.8,105.7,125.0,Normal
+76,Female,14.8,127.2,205.1,119.0,Normal
+51,Male,12.6,169.6,202.4,117.0,Diabetes Risk
+58,Female,19.7,50.0,195.3,142.0,Normal
+49,Male,8.8,83.3,184.7,121.0,Anemia Risk
+79,Female,12.1,103.6,126.3,139.0,Normal
+61,Male,11.2,116.1,225.0,105.0,Anemia Risk
+17,Male,11.7,140.8,205.0,129.0,Anemia Risk
+15,Female,11.9,104.7,234.1,109.0,Anemia Risk
+19,Male,10.2,98.9,128.4,112.0,Anemia Risk
+28,Male,15.4,148.6,210.3,114.0,Diabetes Risk
+41,Female,12.1,133.2,180.6,113.0,Normal
+23,Male,13.9,128.9,195.8,113.0,Normal
+29,Female,12.4,113.9,181.1,138.0,Normal
+56,Female,11.8,144.4,211.7,121.0,Anemia Risk
+65,Female,17.7,87.0,183.5,123.0,Normal
+77,Male,15.8,82.3,147.9,113.0,Normal
+66,Male,8.8,136.1,193.5,133.0,Anemia Risk
+18,Male,8.6,53.1,181.4,125.0,Anemia Risk
+37,Female,16.1,113.2,186.7,115.0,Normal
+29,Male,12.2,98.9,100.0,96.0,Normal
+57,Female,9.4,60.8,217.3,123.0,Anemia Risk
+43,Female,16.1,77.4,177.4,129.0,Normal
+50,Male,13.9,106.2,136.1,105.0,Normal
+27,Female,14.1,146.2,226.9,116.0,Diabetes Risk
+46,Male,15.5,87.1,215.5,128.0,Normal
+73,Male,10.2,152.5,176.9,96.0,Anemia Risk
+42,Male,9.4,112.2,143.9,110.0,Anemia Risk
+56,Male,17.5,155.9,197.1,126.0,Diabetes Risk
+59,Male,9.9,88.8,194.9,137.0,Anemia Risk
+76,Female,10.4,108.3,227.0,153.0,Anemia Risk
+71,Female,10.9,122.9,172.3,149.0,Anemia Risk
+20,Female,18.7,103.7,237.8,122.0,Normal
+42,Male,14.7,143.4,168.4,113.0,Diabetes Risk
+42,Male,15.9,50.0,136.2,134.0,Normal
+58,Male,14.0,194.8,144.7,112.0,Diabetes Risk
+44,Female,12.0,140.0,187.5,109.0,Normal
+76,Male,15.1,103.9,187.4,115.0,Normal
+76,Female,9.6,90.7,203.1,114.0,Anemia Risk
+15,Female,10.8,79.7,186.4,126.0,Anemia Risk
+41,Male,15.3,132.6,229.1,111.0,Normal
+76,Male,10.1,144.8,179.6,121.0,Anemia Risk
+17,Female,13.0,104.3,110.1,144.0,Normal
+41,Male,13.1,148.7,185.2,122.0,Diabetes Risk
+23,Female,12.2,78.2,109.7,143.0,Normal
+76,Male,8.6,72.1,200.9,138.0,Anemia Risk
+51,Male,11.9,173.5,232.3,129.0,Anemia Risk
+65,Female,11.4,130.7,150.6,115.0,Anemia Risk
+58,Male,13.9,158.9,246.7,136.0,Diabetes Risk
+38,Female,13.8,80.1,223.7,116.0,Normal
+73,Male,14.4,77.7,238.3,120.0,Normal
+46,Female,11.8,97.4,197.6,125.0,Anemia Risk
+66,Female,14.8,81.2,150.3,120.0,Normal
+76,Male,9.6,134.7,221.2,109.0,Anemia Risk
+72,Female,8.9,83.7,165.0,97.0,Anemia Risk
+66,Male,7.7,69.0,194.7,134.0,Anemia Risk
+26,Male,12.3,115.0,183.1,129.0,Normal
+53,Male,11.6,64.9,235.0,94.0,Anemia Risk
+16,Female,15.5,50.0,219.2,109.0,Normal
+17,Female,11.9,114.7,186.8,123.0,Anemia Risk
+70,Male,14.2,50.0,111.9,127.0,Normal
+73,Male,15.5,137.1,164.6,97.0,Normal
+16,Female,11.8,61.2,218.2,119.0,Anemia Risk
+16,Male,14.2,50.0,201.2,128.0,Normal
+68,Male,16.0,99.7,129.9,115.0,Normal
+15,Female,10.4,115.1,117.7,124.0,Anemia Risk
+33,Male,13.6,127.2,197.8,113.0,Normal
+16,Female,11.8,116.0,147.7,134.0,Anemia Risk
+67,Male,10.6,72.9,151.6,108.0,Anemia Risk
+58,Female,9.7,135.0,216.9,103.0,Anemia Risk
+46,Male,10.5,143.6,238.1,120.0,Anemia Risk
+46,Male,13.7,67.8,160.0,98.0,Normal
+69,Female,9.5,103.7,188.2,88.0,Anemia Risk
+70,Male,12.1,100.4,187.0,136.0,Normal
+31,Female,15.5,117.7,183.4,105.0,Normal
+52,Male,14.6,102.8,191.6,100.0,Normal
+38,Female,12.2,107.6,220.3,108.0,Normal
+25,Female,17.7,132.5,163.0,107.0,Normal
+30,Female,18.2,71.0,129.0,118.0,Normal
+73,Female,13.6,135.8,257.6,104.0,Cholesterol Risk
+17,Male,7.3,149.9,233.6,127.0,Anemia Risk
+34,Male,15.7,167.2,145.9,130.0,Diabetes Risk
+73,Female,7.8,50.0,195.4,101.0,Anemia Risk
+50,Female,17.2,103.6,230.4,111.0,Normal
+33,Female,16.2,50.0,220.0,112.0,Normal
+33,Male,17.9,50.0,208.5,118.0,Normal
+34,Male,14.2,115.0,183.2,136.0,Normal
+66,Male,12.6,96.0,259.1,137.0,Cholesterol Risk
+47,Male,12.4,120.5,198.8,157.0,Normal
+54,Female,12.1,127.0,169.4,86.0,Normal
+53,Female,16.0,153.7,224.8,106.0,Diabetes Risk
+15,Female,15.3,111.9,193.8,147.0,Normal
+25,Male,13.8,212.3,204.0,93.0,Diabetes Risk
+71,Male,11.7,120.7,198.1,147.0,Anemia Risk
+64,Male,20.0,174.5,209.9,122.0,Diabetes Risk
+37,Female,15.8,50.0,150.9,123.0,Normal
+45,Female,9.5,157.2,132.0,101.0,Anemia Risk
+56,Male,12.2,103.7,247.4,113.0,Cholesterol Risk
+21,Female,15.8,50.0,200.0,146.0,Normal
+30,Male,11.5,124.7,220.8,119.0,Anemia Risk
+74,Male,14.4,99.4,119.6,113.0,Normal
+16,Female,15.9,130.3,232.7,126.0,Normal
+15,Male,6.0,145.4,169.1,117.0,Anemia Risk
+62,Female,13.2,57.9,157.8,125.0,Normal
+26,Male,13.3,145.5,187.5,107.0,Diabetes Risk
+51,Female,12.5,110.2,150.9,119.0,Normal
+46,Female,14.3,157.3,189.9,110.0,Diabetes Risk
+23,Female,15.1,102.8,184.5,93.0,Normal
+33,Male,13.9,93.5,232.4,127.0,Normal
+62,Male,12.6,110.9,250.5,101.0,Cholesterol Risk
+17,Female,15.1,113.6,249.3,118.0,Cholesterol Risk
+34,Female,13.6,86.8,100.0,134.0,Normal
+38,Male,12.9,92.6,152.6,98.0,Normal
+68,Male,10.2,67.1,100.0,129.0,Anemia Risk
+47,Male,9.6,94.8,142.3,116.0,Anemia Risk
+38,Female,10.2,133.7,164.0,106.0,Anemia Risk
+50,Male,14.2,105.2,206.4,150.0,Normal
+52,Male,13.3,145.3,169.2,120.0,Diabetes Risk
+39,Female,9.8,103.5,170.3,111.0,Anemia Risk
+32,Male,15.1,59.9,197.3,108.0,Normal
+68,Male,16.9,130.9,121.6,133.0,Normal
+49,Male,12.0,86.4,156.5,111.0,Normal
+75,Female,9.1,101.8,169.9,131.0,Anemia Risk
+55,Female,11.7,153.3,181.9,120.0,Anemia Risk
+47,Female,15.6,69.4,193.1,137.0,Normal
+47,Female,14.9,115.8,250.0,104.0,Cholesterol Risk
+28,Female,11.2,108.6,226.3,106.0,Anemia Risk
+35,Female,17.3,134.5,159.2,116.0,Normal
+62,Female,16.9,139.9,179.5,117.0,Normal
+34,Male,11.7,119.2,176.8,115.0,Anemia Risk
+22,Male,11.6,97.4,169.4,159.0,Anemia Risk
+21,Female,12.0,126.6,200.9,151.0,Normal
+31,Male,12.2,156.7,115.6,124.0,Diabetes Risk
+47,Male,15.9,109.0,225.2,126.0,Normal
+62,Female,14.6,100.6,257.7,116.0,Cholesterol Risk
+73,Male,15.7,123.6,179.2,104.0,Normal
+36,Male,15.2,111.4,178.4,117.0,Normal
+44,Male,17.8,63.2,196.3,132.0,Normal
+52,Male,10.9,118.4,230.8,140.0,Anemia Risk
+65,Male,14.5,62.9,177.0,135.0,Normal
+68,Female,8.1,123.1,227.4,97.0,Anemia Risk
+22,Female,10.2,82.1,209.5,116.0,Anemia Risk
+41,Female,13.3,111.3,284.5,98.0,Cholesterol Risk
+41,Male,14.5,123.7,176.9,138.0,Normal
+35,Female,13.2,195.9,111.0,114.0,Diabetes Risk
+44,Male,12.1,136.0,132.7,119.0,Normal
+42,Male,12.5,157.8,190.5,127.0,Diabetes Risk
+78,Male,16.9,175.5,231.1,161.0,Diabetes Risk
+75,Male,12.5,127.1,163.9,124.0,Normal
+62,Female,17.9,120.0,180.8,116.0,Normal
+33,Female,15.5,72.7,217.4,101.0,Normal
+18,Male,14.6,105.9,151.4,142.0,Normal
+49,Female,10.5,84.7,165.5,117.0,Anemia Risk
+78,Male,15.8,96.0,143.3,145.0,Normal
+63,Female,12.3,175.5,237.1,137.0,Diabetes Risk
+31,Female,10.5,114.0,251.7,113.0,Anemia Risk
+58,Male,14.8,79.3,126.8,99.0,Normal
+44,Female,10.0,158.1,184.3,124.0,Anemia Risk
+60,Male,11.6,143.4,246.3,111.0,Anemia Risk
+20,Female,13.5,145.3,205.9,121.0,Diabetes Risk
+51,Male,19.0,50.0,170.4,136.0,Normal
+38,Male,11.8,178.2,128.2,95.0,Anemia Risk
+60,Female,12.4,90.5,236.1,124.0,Normal
+67,Female,15.3,137.2,204.4,131.0,Normal
+74,Male,10.4,198.3,131.1,132.0,Anemia Risk
+77,Female,14.6,185.4,237.6,100.0,Diabetes Risk
+46,Female,16.5,75.8,126.0,126.0,Normal
+47,Male,12.7,59.4,181.2,138.0,Normal
+32,Male,16.1,160.1,179.4,125.0,Diabetes Risk
+39,Female,14.2,115.0,254.7,118.0,Cholesterol Risk
+68,Male,11.7,92.5,179.6,137.0,Anemia Risk
+72,Male,13.0,131.7,179.4,110.0,Normal
+60,Male,12.6,104.3,135.5,97.0,Normal
+38,Female,13.3,134.5,164.4,117.0,Normal
+46,Female,13.9,112.3,157.3,128.0,Normal
+61,Male,15.0,135.3,159.4,136.0,Normal
+37,Female,14.8,78.7,190.3,128.0,Normal
+41,Male,7.4,159.9,100.0,133.0,Anemia Risk
+16,Female,13.3,134.4,129.6,136.0,Normal
+31,Male,9.7,132.6,185.6,115.0,Anemia Risk
+47,Male,12.8,70.9,194.9,118.0,Normal
+23,Female,13.2,169.5,180.7,139.0,Diabetes Risk
+57,Male,15.9,109.5,188.4,102.0,Normal
+62,Female,13.4,135.5,173.6,126.0,Normal
+53,Female,14.1,98.7,189.3,109.0,Normal
+56,Male,15.5,119.1,207.4,137.0,Normal
+40,Male,16.6,120.4,207.1,120.0,Normal
+64,Female,13.2,50.0,162.4,120.0,Normal
+39,Male,13.7,130.4,226.6,146.0,Normal
+38,Male,13.5,178.8,196.3,104.0,Diabetes Risk
+27,Male,12.1,128.9,239.3,123.0,Normal
+74,Male,11.6,76.5,247.3,117.0,Anemia Risk
+21,Male,7.8,132.7,132.3,128.0,Anemia Risk
+71,Female,10.8,147.1,155.6,149.0,Anemia Risk
+50,Female,9.1,127.9,222.5,111.0,Anemia Risk
+59,Male,16.6,107.4,123.4,102.0,Normal
+34,Male,14.0,101.5,246.8,108.0,Cholesterol Risk
+79,Male,13.2,101.4,176.2,117.0,Normal
+22,Female,11.7,134.4,213.0,121.0,Anemia Risk
+30,Male,13.6,60.8,185.3,122.0,Normal
+28,Female,11.4,97.0,134.3,147.0,Anemia Risk
+29,Female,13.9,165.8,232.2,144.0,Diabetes Risk
+46,Female,14.1,167.2,300.0,140.0,Diabetes Risk
+77,Male,11.3,58.3,169.4,158.0,Anemia Risk
+65,Female,11.3,70.4,177.1,132.0,Anemia Risk
+39,Male,15.9,100.5,100.0,137.0,Normal
+72,Female,13.4,141.2,244.1,132.0,Diabetes Risk
+77,Male,11.5,50.0,226.5,130.0,Anemia Risk
+76,Female,12.6,108.1,120.7,126.0,Normal
+36,Male,11.0,93.4,107.4,114.0,Anemia Risk
+72,Female,13.3,156.4,112.0,101.0,Diabetes Risk
+72,Male,15.6,51.3,215.8,118.0,Normal
+63,Male,13.4,113.2,219.8,128.0,Normal
+66,Male,19.4,96.2,153.1,121.0,Normal
+56,Male,14.6,161.4,210.0,104.0,Diabetes Risk
+29,Female,14.1,130.9,196.4,118.0,Normal
+68,Female,11.2,89.5,175.3,117.0,Anemia Risk
+74,Male,12.9,139.9,228.8,119.0,Normal
+22,Female,11.6,96.4,141.8,127.0,Anemia Risk
+67,Male,8.1,145.0,235.9,131.0,Anemia Risk
+74,Male,15.9,101.7,160.9,112.0,Normal
+19,Female,12.2,146.9,261.3,135.0,Diabetes Risk
+20,Male,11.6,125.3,149.8,137.0,Anemia Risk
+61,Male,14.0,224.1,175.9,125.0,Diabetes Risk
+69,Female,14.8,108.1,192.3,130.0,Normal
+54,Male,12.7,123.4,192.1,135.0,Normal
+66,Male,13.5,93.2,209.6,104.0,Normal
+30,Male,15.4,110.1,138.6,136.0,Normal
+27,Male,12.6,50.0,188.5,108.0,Normal
+44,Female,14.3,126.3,195.5,110.0,Normal
+33,Female,9.4,157.0,168.9,123.0,Anemia Risk
+31,Female,10.4,123.9,206.2,88.0,Anemia Risk
+77,Male,15.0,64.0,136.1,123.0,Normal
+33,Male,10.3,81.9,176.9,135.0,Anemia Risk
+72,Female,14.1,50.0,159.9,95.0,Normal
+69,Male,13.1,144.3,177.1,136.0,Diabetes Risk
+76,Male,12.6,74.8,247.9,110.0,Cholesterol Risk
+37,Male,11.4,109.0,248.7,123.0,Anemia Risk
+23,Male,15.8,104.6,240.8,112.0,Cholesterol Risk
+26,Female,17.8,162.1,171.5,129.0,Diabetes Risk
+15,Female,14.3,113.0,226.3,135.0,Normal
+72,Female,14.3,138.3,194.5,130.0,Normal
+15,Male,11.8,129.1,191.8,120.0,Anemia Risk
+48,Female,10.5,157.6,186.9,113.0,Anemia Risk
+62,Female,13.4,101.6,260.3,119.0,Cholesterol Risk
+15,Male,11.1,175.4,244.6,130.0,Anemia Risk
+30,Male,9.1,50.0,219.8,130.0,Anemia Risk
+75,Female,15.5,140.0,183.2,128.0,Normal
+78,Female,15.6,79.7,191.6,101.0,Normal
+77,Female,11.4,92.8,211.2,120.0,Anemia Risk
+36,Female,14.1,129.9,169.1,110.0,Normal
+40,Male,16.0,129.6,227.5,130.0,Normal
+30,Female,14.0,131.2,153.2,109.0,Normal
+65,Female,10.5,61.5,205.7,127.0,Anemia Risk
+71,Male,12.9,160.7,100.0,116.0,Diabetes Risk
+43,Female,16.8,78.5,168.0,92.0,Normal
+61,Male,14.1,83.1,273.1,134.0,Cholesterol Risk
+76,Male,14.8,132.3,231.4,120.0,Normal
+30,Male,14.4,100.0,251.4,139.0,Cholesterol Risk
+62,Female,11.4,120.8,163.3,95.0,Anemia Risk
+53,Female,11.9,50.0,194.2,116.0,Anemia Risk
+47,Male,14.3,120.0,241.3,117.0,Cholesterol Risk
+37,Female,15.5,117.6,215.3,124.0,Normal
+24,Female,16.2,92.2,210.3,100.0,Normal
+48,Male,11.4,50.0,255.2,128.0,Anemia Risk
+66,Male,14.6,102.6,148.4,149.0,Normal
+24,Female,16.5,108.7,182.6,127.0,Normal
+33,Male,11.0,97.1,119.8,121.0,Anemia Risk
+72,Female,17.2,50.0,146.2,99.0,Normal
+15,Female,17.6,165.8,233.0,108.0,Diabetes Risk
+18,Female,20.0,87.6,153.3,119.0,Normal
+30,Female,14.1,102.2,219.4,112.0,Normal
+38,Male,14.1,50.0,256.3,135.0,Cholesterol Risk
+16,Male,15.6,165.8,182.9,128.0,Diabetes Risk
+46,Male,15.5,93.7,210.8,160.0,Normal
+38,Male,16.3,113.4,219.7,105.0,Normal
+26,Female,15.5,149.2,141.1,120.0,Diabetes Risk
+64,Female,13.2,86.3,165.3,99.0,Normal
+49,Male,16.6,143.7,149.9,87.0,Diabetes Risk
+47,Female,10.8,50.0,168.5,131.0,Anemia Risk
+47,Female,13.5,129.3,218.6,127.0,Normal
+75,Female,17.4,165.0,166.2,107.0,Diabetes Risk
+65,Male,10.4,89.7,188.6,121.0,Anemia Risk
+57,Male,11.8,149.2,148.3,111.0,Anemia Risk
+26,Male,15.2,174.2,239.1,113.0,Diabetes Risk
+79,Female,14.5,101.1,168.2,115.0,Normal
+47,Male,11.3,98.2,250.9,107.0,Anemia Risk
+54,Male,12.5,78.6,192.4,109.0,Normal
+57,Male,10.5,92.2,133.7,110.0,Anemia Risk
+58,Male,16.0,81.5,183.2,126.0,Normal
+43,Male,12.9,78.5,147.5,80.0,Normal
+27,Male,18.0,152.0,213.6,117.0,Diabetes Risk
+26,Female,13.7,82.4,179.5,104.0,Normal
+60,Female,13.0,119.0,196.5,104.0,Normal
+16,Male,12.7,111.3,175.2,112.0,Normal
+49,Male,12.9,162.4,167.8,120.0,Diabetes Risk
+22,Female,13.8,92.4,151.1,117.0,Normal
+40,Female,19.8,123.3,223.4,104.0,Normal
+48,Male,12.7,137.7,183.1,131.0,Normal
+21,Male,12.7,162.1,177.4,106.0,Diabetes Risk
+72,Male,13.7,91.9,182.1,109.0,Normal
+43,Male,16.2,88.4,162.8,124.0,Normal
+50,Female,9.9,72.8,177.5,125.0,Anemia Risk
+35,Male,14.6,188.3,198.2,111.0,Diabetes Risk
+50,Male,11.5,158.5,148.6,80.0,Anemia Risk
+24,Male,14.9,108.5,154.4,107.0,Normal
+38,Male,12.3,177.6,245.1,122.0,Diabetes Risk
+78,Female,7.7,106.4,175.5,130.0,Anemia Risk
+63,Female,14.4,135.4,167.9,119.0,Normal
+50,Female,14.4,110.4,136.2,113.0,Normal
+38,Male,12.1,123.9,224.0,154.0,Normal
+37,Male,11.9,120.2,147.8,114.0,Anemia Risk
+76,Female,10.2,95.1,189.4,129.0,Anemia Risk
+51,Male,15.4,148.2,121.7,100.0,Diabetes Risk
+26,Male,15.7,135.1,222.7,104.0,Normal
+69,Female,11.3,146.0,237.1,130.0,Anemia Risk
+27,Female,12.2,121.2,209.4,136.0,Normal
+37,Female,13.3,78.3,128.6,114.0,Normal
+44,Female,19.2,169.8,223.6,92.0,Diabetes Risk
+31,Male,14.9,100.8,156.9,117.0,Normal
+76,Male,11.1,122.7,143.2,123.0,Anemia Risk
+27,Female,14.3,132.2,174.7,121.0,Normal
+73,Male,10.1,122.5,173.9,112.0,Anemia Risk
+33,Female,15.3,142.0,169.8,118.0,Diabetes Risk
+63,Female,17.7,147.6,240.9,109.0,Diabetes Risk
+26,Male,17.7,102.1,270.5,103.0,Cholesterol Risk
+75,Female,15.3,166.9,135.2,131.0,Diabetes Risk
+33,Male,12.0,100.7,162.4,121.0,Normal
+23,Male,10.2,121.8,195.7,118.0,Anemia Risk
+42,Male,10.0,96.4,174.5,112.0,Anemia Risk
+66,Male,6.5,86.4,206.0,117.0,Anemia Risk
+30,Female,15.2,146.5,226.6,122.0,Diabetes Risk
+26,Male,13.2,219.3,220.0,146.0,Diabetes Risk
+39,Female,15.8,97.3,214.4,130.0,Normal
+66,Female,17.1,152.5,256.4,110.0,Diabetes Risk
+67,Female,13.7,98.6,126.4,110.0,Normal
+37,Female,13.9,109.6,249.2,108.0,Cholesterol Risk
+30,Male,12.3,171.5,173.5,117.0,Diabetes Risk
+71,Male,12.6,72.4,221.4,108.0,Normal
+53,Female,15.3,63.2,148.8,127.0,Normal
+67,Female,13.1,106.9,153.7,80.0,Normal
+56,Male,12.7,133.2,216.5,128.0,Normal
+72,Female,13.5,126.2,112.9,124.0,Normal
+53,Male,15.7,122.6,229.6,139.0,Normal
+28,Female,11.8,111.2,240.4,133.0,Anemia Risk
+19,Male,13.3,137.5,197.1,110.0,Normal
+49,Female,14.1,50.0,195.7,131.0,Normal
+32,Female,16.4,83.7,156.7,117.0,Normal
+23,Male,12.9,106.7,217.0,91.0,Normal
+72,Female,11.7,134.7,203.9,122.0,Anemia Risk
+31,Female,12.3,162.1,153.1,111.0,Diabetes Risk
+21,Male,16.1,79.0,174.3,120.0,Normal
+60,Female,18.6,161.0,183.6,145.0,Diabetes Risk
+27,Male,10.2,94.2,174.3,123.0,Anemia Risk
+54,Male,10.8,105.5,135.5,105.0,Anemia Risk
+56,Female,13.1,130.4,218.0,134.0,Normal
+23,Female,13.8,102.9,180.3,125.0,Normal
+64,Female,15.5,148.9,190.6,103.0,Diabetes Risk
+41,Female,11.3,95.8,166.9,96.0,Anemia Risk
+19,Female,10.8,96.4,209.0,105.0,Anemia Risk
+43,Female,13.8,146.8,197.9,133.0,Diabetes Risk
+51,Female,12.9,83.3,238.5,115.0,Normal
+52,Male,15.8,118.7,209.2,121.0,Normal
+22,Female,14.7,51.9,181.9,100.0,Normal
+79,Male,14.9,173.7,160.4,133.0,Diabetes Risk
+31,Female,13.2,152.2,224.6,90.0,Diabetes Risk
+59,Female,19.4,206.3,178.7,110.0,Diabetes Risk
+18,Male,11.4,156.8,183.1,126.0,Anemia Risk
+50,Female,15.0,70.5,183.1,103.0,Normal
+45,Female,10.3,133.4,173.9,129.0,Anemia Risk
+33,Male,10.8,77.9,183.8,107.0,Anemia Risk
+75,Female,12.0,165.2,267.0,102.0,Diabetes Risk
+68,Female,17.6,71.5,148.1,139.0,Normal
+53,Female,14.2,69.8,157.4,122.0,Normal
+33,Male,12.0,53.7,245.4,128.0,Cholesterol Risk
+53,Female,14.4,92.9,175.0,135.0,Normal
+59,Female,13.6,85.9,172.0,81.0,Normal
+27,Female,12.3,65.8,231.4,130.0,Normal
+72,Female,10.0,179.6,133.2,109.0,Anemia Risk
+34,Male,17.1,128.5,222.9,111.0,Normal
+75,Male,14.0,124.4,191.8,127.0,Normal
+53,Female,18.9,165.6,208.6,115.0,Diabetes Risk
+15,Female,15.9,119.0,207.8,129.0,Normal
+17,Male,14.9,83.8,164.9,119.0,Normal
+76,Male,12.4,50.5,232.0,123.0,Normal
+77,Female,10.8,81.8,168.0,113.0,Anemia Risk
+39,Male,13.0,162.7,206.4,104.0,Diabetes Risk
+70,Female,10.7,66.1,239.5,109.0,Anemia Risk
+47,Male,15.1,122.4,245.2,118.0,Cholesterol Risk
+52,Male,17.6,146.2,179.3,148.0,Diabetes Risk
+20,Male,12.8,120.0,208.5,142.0,Normal
+72,Male,15.9,124.0,175.6,110.0,Normal
+58,Female,11.8,132.9,290.2,121.0,Anemia Risk
+59,Male,12.7,123.3,221.2,116.0,Normal
+46,Male,11.5,166.3,193.4,122.0,Anemia Risk
+59,Female,8.2,73.6,202.5,124.0,Anemia Risk
+75,Male,13.4,118.4,206.3,128.0,Normal
+61,Male,13.8,50.0,207.5,80.0,Normal
+35,Female,16.2,50.0,180.4,125.0,Normal
+50,Male,15.5,107.1,174.2,114.0,Normal
+33,Female,15.5,129.0,183.9,109.0,Normal
+34,Female,11.1,167.1,144.4,132.0,Anemia Risk
+71,Female,14.6,194.7,218.7,142.0,Diabetes Risk
+32,Female,17.5,156.2,157.9,130.0,Diabetes Risk
+61,Male,14.4,135.5,147.6,112.0,Normal
+63,Female,18.1,115.6,189.4,104.0,Normal
+28,Male,18.5,56.4,184.8,80.0,Normal
+29,Male,12.8,104.9,200.0,123.0,Normal
+45,Male,11.8,155.2,167.3,129.0,Anemia Risk
+15,Male,11.6,141.4,174.3,118.0,Anemia Risk
+68,Male,9.7,65.0,217.7,134.0,Anemia Risk
+17,Male,12.2,131.5,215.2,100.0,Normal
+30,Male,16.5,128.5,213.6,117.0,Normal
+71,Male,8.0,122.2,191.4,116.0,Anemia Risk
+26,Male,10.9,109.0,196.8,118.0,Anemia Risk
+30,Male,13.2,133.3,199.2,138.0,Normal
+38,Female,11.3,134.4,163.8,118.0,Anemia Risk
+42,Female,12.2,87.5,249.0,116.0,Cholesterol Risk
+22,Female,12.2,125.9,243.3,106.0,Cholesterol Risk
+50,Male,12.9,103.4,221.8,140.0,Normal
+22,Female,11.7,57.9,173.0,99.0,Anemia Risk
+72,Female,11.5,90.3,211.6,112.0,Anemia Risk
+74,Female,15.8,55.3,229.1,145.0,Normal
+64,Male,16.1,144.3,141.1,127.0,Diabetes Risk
+42,Male,10.0,122.5,257.8,120.0,Anemia Risk
+55,Male,6.6,97.6,120.4,120.0,Anemia Risk
+78,Male,16.2,159.7,218.2,106.0,Diabetes Risk
+41,Female,10.4,112.4,248.1,119.0,Anemia Risk
+77,Female,14.0,59.9,185.5,115.0,Normal
+31,Female,9.6,94.6,184.0,123.0,Anemia Risk
+47,Female,16.7,167.1,216.7,97.0,Diabetes Risk
+43,Male,19.9,86.6,264.1,126.0,Cholesterol Risk
+27,Male,14.0,119.6,178.8,135.0,Normal
+60,Male,13.3,136.0,158.8,117.0,Normal
+49,Female,12.7,130.6,173.0,130.0,Normal
+20,Male,15.5,195.7,127.9,125.0,Diabetes Risk
+61,Male,14.9,68.8,225.9,111.0,Normal
+39,Female,16.0,72.3,169.4,104.0,Normal
+24,Female,11.9,69.4,181.7,106.0,Anemia Risk
+70,Male,14.4,99.6,226.4,124.0,Normal
+44,Male,12.1,148.5,174.9,119.0,Diabetes Risk
+19,Male,10.9,73.9,220.4,139.0,Anemia Risk
+47,Male,13.4,149.0,148.5,132.0,Diabetes Risk
+79,Male,11.2,111.2,228.3,132.0,Anemia Risk
+32,Male,16.4,71.2,203.7,124.0,Normal
+63,Female,11.3,50.0,186.5,106.0,Anemia Risk
+25,Female,14.4,56.5,195.2,125.0,Normal
+40,Female,12.0,86.7,138.5,121.0,Normal
+77,Male,14.2,104.1,194.3,103.0,Normal
+73,Female,12.2,157.1,184.3,138.0,Diabetes Risk
+41,Male,10.4,138.0,139.6,137.0,Anemia Risk
+63,Male,14.7,80.6,163.2,103.0,Normal
+47,Female,12.9,124.3,184.8,110.0,Normal
+15,Male,14.2,167.8,165.7,112.0,Diabetes Risk
+35,Male,12.4,175.6,100.0,129.0,Diabetes Risk
+69,Female,10.2,99.0,233.1,127.0,Anemia Risk
+20,Female,16.2,143.5,184.3,121.0,Diabetes Risk
+19,Female,15.3,158.6,100.0,124.0,Diabetes Risk
+17,Male,12.1,57.3,275.4,101.0,Cholesterol Risk
+67,Female,13.7,92.1,239.7,126.0,Normal
+37,Female,16.1,187.7,176.0,118.0,Diabetes Risk
+67,Male,12.4,99.5,156.3,110.0,Normal
+51,Female,12.7,50.0,206.1,97.0,Normal
+31,Female,14.1,105.8,198.1,120.0,Normal
+15,Female,12.4,149.4,211.7,125.0,Diabetes Risk
+65,Male,15.6,110.2,156.4,94.0,Normal
+59,Male,13.1,135.0,233.9,120.0,Normal
+18,Male,11.5,142.8,171.1,122.0,Anemia Risk
+76,Male,15.0,97.6,217.2,112.0,Normal
+79,Female,10.6,91.8,158.1,126.0,Anemia Risk
+46,Male,18.5,115.4,295.9,118.0,Cholesterol Risk
+48,Male,17.5,116.2,217.8,124.0,Normal
+53,Female,14.8,111.9,305.4,128.0,Cholesterol Risk
+40,Female,14.6,113.3,223.1,128.0,Normal
+48,Female,14.5,83.8,167.5,135.0,Normal
+68,Male,12.3,136.3,223.2,125.0,Normal
+17,Male,14.2,131.0,226.0,113.0,Normal
+64,Male,11.2,63.2,204.9,110.0,Anemia Risk
+26,Female,14.8,96.4,215.2,104.0,Normal
+79,Female,15.7,113.3,220.5,122.0,Normal
+68,Male,12.6,91.3,150.3,140.0,Normal
+19,Female,12.0,132.3,147.4,115.0,Normal
+71,Female,10.5,107.7,158.2,127.0,Anemia Risk
+31,Female,17.1,115.9,195.1,109.0,Normal
+61,Male,12.2,96.0,181.1,123.0,Normal
+37,Female,13.0,50.0,151.0,139.0,Normal
+28,Female,14.3,50.0,221.0,130.0,Normal
+65,Male,14.2,130.6,201.3,96.0,Normal
+52,Male,15.4,119.3,196.8,129.0,Normal
+78,Female,12.6,125.4,179.7,129.0,Normal
+52,Female,10.7,114.7,174.9,123.0,Anemia Risk
+64,Male,10.2,117.5,156.3,130.0,Anemia Risk
+44,Male,12.1,143.9,227.3,107.0,Diabetes Risk
+65,Female,11.1,125.6,161.9,121.0,Anemia Risk
+77,Female,12.7,146.4,198.4,137.0,Diabetes Risk
+66,Female,16.8,116.0,256.5,135.0,Cholesterol Risk
+52,Female,12.6,99.5,176.7,128.0,Normal
+44,Male,12.6,116.8,228.4,107.0,Normal
+65,Female,13.5,80.7,212.7,104.0,Normal
+19,Female,12.5,96.7,202.5,122.0,Normal
+43,Male,13.3,116.2,207.2,123.0,Normal
+18,Female,14.9,115.8,186.2,118.0,Normal
+24,Male,15.7,106.3,191.4,108.0,Normal
+70,Female,16.0,61.4,168.1,127.0,Normal
+31,Female,18.6,132.3,191.7,122.0,Normal
+31,Male,14.9,139.2,166.6,124.0,Normal
+48,Male,19.1,167.5,230.2,129.0,Diabetes Risk
+20,Female,11.6,125.5,122.0,116.0,Anemia Risk
+67,Female,18.7,110.1,209.2,113.0,Normal
+57,Female,12.5,74.5,203.5,137.0,Normal
+37,Male,12.8,162.2,199.8,109.0,Diabetes Risk
+69,Female,13.2,118.7,231.0,113.0,Normal
+30,Male,13.0,116.8,178.6,139.0,Normal
+22,Male,13.7,101.1,200.2,112.0,Normal
+18,Female,12.0,98.9,121.3,119.0,Normal
+18,Male,15.6,134.1,173.4,114.0,Normal
+70,Female,12.1,74.2,224.2,93.0,Normal
+39,Female,15.1,166.9,136.4,118.0,Diabetes Risk
+41,Female,17.3,159.3,196.4,105.0,Diabetes Risk
+46,Female,12.6,97.6,162.9,124.0,Normal
+64,Female,15.5,79.8,185.6,137.0,Normal
+75,Male,14.9,50.0,165.3,87.0,Normal
+65,Male,19.1,66.2,140.1,114.0,Normal
+33,Female,12.2,135.5,205.4,127.0,Normal
+35,Female,15.5,121.0,188.0,87.0,Normal
+19,Male,9.4,127.3,214.5,140.0,Anemia Risk
+56,Male,12.3,50.0,221.8,126.0,Normal
+75,Male,14.4,96.1,239.0,136.0,Normal
+36,Male,17.0,157.9,195.3,112.0,Diabetes Risk
+35,Female,10.4,106.6,240.7,113.0,Anemia Risk
+15,Female,15.5,65.5,151.0,118.0,Normal
+19,Male,13.3,106.1,226.4,152.0,Normal
+26,Female,9.7,83.0,208.4,140.0,Anemia Risk
+60,Male,14.0,121.7,199.3,122.0,Normal
+48,Female,17.8,110.7,207.8,124.0,Normal
+63,Male,10.7,129.0,151.6,130.0,Anemia Risk
+59,Female,13.2,67.4,142.1,156.0,Normal
+41,Male,11.0,94.3,258.4,126.0,Anemia Risk
+40,Male,12.3,148.2,183.3,121.0,Diabetes Risk
+61,Female,17.1,62.6,182.7,115.0,Normal
+70,Male,12.8,74.9,145.9,124.0,Normal
+77,Female,17.0,117.0,130.7,111.0,Normal
+62,Female,16.3,120.0,186.5,127.0,Normal
+75,Male,12.6,92.9,176.3,99.0,Normal
+40,Female,12.2,100.3,190.1,116.0,Normal
+50,Female,11.3,128.7,193.5,131.0,Anemia Risk
+15,Female,11.2,139.7,289.6,126.0,Anemia Risk
+22,Female,14.4,72.6,176.5,113.0,Normal
+66,Female,13.5,122.8,253.2,117.0,Cholesterol Risk
+61,Male,11.9,162.9,255.7,136.0,Anemia Risk
+70,Female,9.6,105.9,220.1,102.0,Anemia Risk
+28,Female,13.8,72.2,180.6,102.0,Normal
+42,Female,12.3,70.6,135.5,106.0,Normal
+16,Female,13.0,104.4,209.1,120.0,Normal
+40,Female,14.3,146.3,230.8,100.0,Diabetes Risk
+28,Male,7.2,108.6,259.9,134.0,Anemia Risk
+73,Female,9.7,116.6,152.0,106.0,Anemia Risk
+70,Male,19.2,75.1,180.3,123.0,Normal
+21,Male,12.2,144.4,152.2,111.0,Diabetes Risk
+17,Male,7.2,69.9,164.7,119.0,Anemia Risk
+37,Male,9.9,92.3,216.6,96.0,Anemia Risk
+32,Female,19.7,132.0,162.8,135.0,Normal
+52,Male,11.7,50.0,157.0,106.0,Anemia Risk
+29,Male,16.4,116.1,221.9,104.0,Normal
+78,Female,13.8,73.6,208.0,156.0,Normal
+42,Female,12.3,110.6,204.0,128.0,Normal
+53,Female,15.4,97.7,163.9,134.0,Normal
+71,Male,7.5,183.7,241.7,127.0,Anemia Risk
+31,Female,9.9,96.2,190.6,113.0,Anemia Risk
+58,Female,12.3,174.5,285.2,100.0,Diabetes Risk
+39,Male,10.1,130.5,196.4,116.0,Anemia Risk
+31,Female,12.0,81.9,100.0,105.0,Normal
+27,Female,15.6,121.6,100.0,106.0,Normal
+39,Female,13.8,99.3,215.0,96.0,Normal
+24,Female,16.8,118.5,242.0,122.0,Cholesterol Risk
+32,Male,14.0,85.0,158.6,144.0,Normal
+48,Female,16.0,169.2,274.0,128.0,Diabetes Risk
+22,Female,13.3,142.4,256.5,118.0,Diabetes Risk
+54,Male,12.0,111.1,198.4,119.0,Normal
+56,Female,17.2,170.5,211.6,80.0,Diabetes Risk
+55,Male,11.7,112.6,225.8,114.0,Anemia Risk
+20,Female,14.4,148.4,265.6,99.0,Diabetes Risk
+66,Male,15.4,111.3,217.3,122.0,Normal
+40,Male,15.6,123.8,197.5,116.0,Normal
+78,Male,10.6,107.1,216.9,107.0,Anemia Risk
+73,Male,16.1,113.3,211.5,122.0,Normal
+70,Female,11.1,116.0,227.0,122.0,Anemia Risk
+73,Male,15.5,86.6,127.2,143.0,Normal
+47,Female,14.8,96.0,202.6,130.0,Normal
+67,Male,15.5,102.4,208.4,123.0,Normal
+36,Male,10.5,118.0,187.1,106.0,Anemia Risk
+35,Male,15.0,108.9,221.4,104.0,Normal
+18,Female,16.2,151.1,266.8,129.0,Diabetes Risk
+76,Male,14.0,139.6,195.5,117.0,Normal
+76,Female,11.5,103.1,217.7,124.0,Anemia Risk
+38,Female,15.8,158.4,254.3,135.0,Diabetes Risk
+69,Female,13.8,175.6,196.5,97.0,Diabetes Risk
+23,Female,9.3,50.0,154.5,141.0,Anemia Risk
+17,Female,11.3,142.6,214.6,135.0,Anemia Risk
+45,Female,12.2,85.7,101.9,89.0,Normal
+54,Female,17.3,138.0,100.0,155.0,Normal
+50,Female,16.8,153.3,203.3,125.0,Diabetes Risk
+38,Female,16.8,79.3,100.0,113.0,Normal
+20,Male,14.1,50.0,137.4,128.0,Normal
+18,Male,15.8,139.2,174.8,105.0,Normal
+20,Male,10.6,114.7,161.1,128.0,Anemia Risk
+65,Male,13.5,51.6,184.1,108.0,Normal
+76,Male,14.6,198.5,234.5,150.0,Diabetes Risk
+71,Female,10.8,131.9,199.5,121.0,Anemia Risk
+22,Female,14.0,133.5,156.4,130.0,Normal
+40,Female,17.7,157.8,244.2,108.0,Diabetes Risk
+65,Female,14.9,89.7,132.8,132.0,Normal
+59,Female,15.8,114.6,198.9,120.0,Normal
+58,Female,7.4,63.8,128.4,99.0,Anemia Risk
+19,Female,17.4,88.7,200.1,116.0,Normal
+40,Male,13.0,123.5,177.3,149.0,Normal
+33,Male,11.6,51.7,233.3,133.0,Anemia Risk
+34,Male,13.1,87.7,218.8,114.0,Normal
+26,Male,9.8,77.5,166.5,92.0,Anemia Risk
+61,Female,16.1,115.0,158.8,108.0,Normal
+15,Female,12.7,130.1,177.4,99.0,Normal
+28,Female,11.7,136.0,265.0,92.0,Anemia Risk
+78,Male,13.1,145.0,254.8,132.0,Diabetes Risk
+52,Female,16.3,158.0,151.3,121.0,Diabetes Risk
+51,Female,13.8,131.3,222.0,147.0,Normal
+25,Female,10.0,176.1,120.7,105.0,Anemia Risk
+17,Male,14.7,114.2,172.1,120.0,Normal
+47,Female,11.2,103.9,152.9,99.0,Anemia Risk
+20,Male,8.1,131.3,232.8,111.0,Anemia Risk
+64,Male,17.2,102.4,138.4,117.0,Normal
+24,Male,14.6,174.8,207.2,114.0,Diabetes Risk
+19,Male,13.3,149.6,190.0,121.0,Diabetes Risk
+37,Female,12.6,136.3,183.0,135.0,Normal
+24,Male,17.0,114.6,256.9,133.0,Cholesterol Risk
+58,Male,20.0,95.7,260.4,108.0,Cholesterol Risk
+16,Female,14.6,134.5,184.2,120.0,Normal
+27,Female,10.9,70.6,176.2,132.0,Anemia Risk
+54,Male,13.1,163.7,129.7,136.0,Diabetes Risk
+16,Female,14.6,103.8,189.8,110.0,Normal
+79,Male,7.6,120.7,268.1,131.0,Anemia Risk
+77,Male,14.3,78.2,184.9,125.0,Normal
+31,Male,14.6,135.3,219.2,104.0,Normal
+23,Male,16.8,94.1,134.1,132.0,Normal
+29,Female,16.6,132.7,172.6,122.0,Normal
+38,Male,13.8,136.5,208.5,94.0,Normal
+52,Female,17.3,87.3,194.2,116.0,Normal
+49,Female,18.6,70.7,223.0,121.0,Normal
+63,Female,13.6,163.6,165.9,111.0,Diabetes Risk
+76,Female,14.5,103.3,120.0,138.0,Normal
+74,Male,9.1,117.9,234.9,139.0,Anemia Risk
+64,Female,9.9,127.0,152.6,114.0,Anemia Risk
+23,Male,11.4,66.1,210.3,113.0,Anemia Risk
+48,Female,12.4,126.2,208.0,118.0,Normal
+49,Female,10.8,113.5,123.4,117.0,Anemia Risk
+15,Male,13.4,87.5,232.0,111.0,Normal
+54,Male,12.5,69.5,167.3,80.0,Normal
+78,Male,16.2,131.2,192.2,146.0,Normal
+36,Female,12.3,149.5,175.7,120.0,Diabetes Risk
+74,Female,7.8,116.3,254.9,117.0,Anemia Risk
+78,Male,13.8,59.8,243.7,125.0,Cholesterol Risk
+25,Male,13.5,73.0,117.5,119.0,Normal
+28,Male,11.3,94.9,280.4,114.0,Anemia Risk
+74,Male,13.7,164.8,162.9,105.0,Diabetes Risk
+44,Female,10.8,101.4,274.1,92.0,Anemia Risk
+49,Male,14.3,93.6,179.8,100.0,Normal
+51,Male,20.0,51.4,176.4,103.0,Normal
+19,Male,9.0,87.0,180.1,130.0,Anemia Risk
+40,Male,12.2,66.8,174.0,131.0,Normal
+76,Female,11.8,74.9,291.0,107.0,Anemia Risk
+18,Male,12.4,114.2,186.9,80.0,Normal
+56,Female,16.0,96.0,177.9,120.0,Normal
+32,Male,14.9,169.5,193.1,114.0,Diabetes Risk
+54,Male,15.6,147.7,151.3,113.0,Diabetes Risk
+53,Female,13.6,88.7,253.9,134.0,Cholesterol Risk
+28,Male,10.2,77.9,131.2,122.0,Anemia Risk
+46,Female,10.7,158.4,165.4,105.0,Anemia Risk
+65,Female,15.4,168.1,227.5,102.0,Diabetes Risk
+52,Male,13.9,50.0,191.7,116.0,Normal
+37,Female,16.7,113.3,212.0,106.0,Normal
+77,Female,14.2,101.2,251.3,119.0,Cholesterol Risk
+29,Female,10.5,132.7,230.2,135.0,Anemia Risk
+39,Female,12.2,178.0,195.5,99.0,Diabetes Risk
+31,Female,14.9,93.1,273.6,121.0,Cholesterol Risk
+67,Female,15.3,50.0,164.9,134.0,Normal
+65,Female,15.6,130.3,186.0,119.0,Normal
+53,Female,10.9,158.6,188.8,131.0,Anemia Risk
+65,Male,10.5,99.4,185.9,116.0,Anemia Risk
+20,Male,13.0,85.3,147.2,123.0,Normal
+21,Female,17.1,94.7,126.7,127.0,Normal
+65,Male,11.8,139.8,206.7,111.0,Anemia Risk
+56,Female,14.6,94.1,164.7,150.0,Normal
+78,Female,14.6,121.5,266.3,129.0,Cholesterol Risk
+29,Male,15.4,111.0,187.1,140.0,Normal
+43,Female,17.7,107.4,179.9,136.0,Normal
+47,Female,17.4,134.5,233.8,125.0,Normal
+41,Female,12.0,93.2,206.1,141.0,Normal
+50,Female,8.3,94.9,183.0,123.0,Anemia Risk
+43,Male,11.8,137.9,164.4,109.0,Anemia Risk
+52,Female,13.7,75.5,336.3,120.0,Cholesterol Risk
+71,Female,12.6,79.2,204.5,105.0,Normal
+41,Female,18.4,65.9,233.4,88.0,Normal
+69,Male,13.5,139.7,149.1,107.0,Normal
+47,Female,15.1,106.3,166.9,121.0,Normal
+24,Male,14.0,64.0,274.5,136.0,Cholesterol Risk
+19,Male,12.6,139.9,245.9,107.0,Cholesterol Risk
+52,Female,8.7,90.6,208.3,135.0,Anemia Risk
+27,Female,13.3,79.5,174.7,102.0,Normal
+45,Male,20.0,103.2,180.6,106.0,Normal
+61,Female,10.4,161.8,163.0,142.0,Anemia Risk
+66,Male,9.0,96.2,143.7,121.0,Anemia Risk
+70,Male,18.3,130.1,227.0,117.0,Normal
+29,Female,15.4,135.4,211.6,124.0,Normal
+43,Female,14.0,125.5,219.4,102.0,Normal
+22,Male,16.9,154.5,176.5,115.0,Diabetes Risk
+19,Male,11.4,85.3,200.2,120.0,Anemia Risk
+43,Male,13.2,73.5,172.7,138.0,Normal
+61,Male,15.9,72.8,160.9,95.0,Normal
+59,Female,18.8,104.9,256.7,146.0,Cholesterol Risk
+16,Female,10.6,76.9,194.9,118.0,Anemia Risk
+41,Female,16.7,115.2,210.3,103.0,Normal
+50,Female,14.5,112.7,223.4,101.0,Normal
+50,Female,13.9,145.7,195.4,124.0,Diabetes Risk
+40,Male,13.5,120.2,199.6,100.0,Normal
+57,Female,10.0,95.4,146.5,112.0,Anemia Risk
+41,Female,15.9,124.4,154.2,116.0,Normal
+34,Female,11.5,73.9,152.1,137.0,Anemia Risk
+25,Female,10.8,108.7,214.2,135.0,Anemia Risk
+52,Female,15.7,121.2,192.8,110.0,Normal
+20,Male,15.5,114.5,154.2,117.0,Normal
+37,Male,13.7,124.5,213.2,96.0,Normal
+61,Male,16.2,87.5,211.7,89.0,Normal
+60,Female,17.1,150.3,162.2,102.0,Diabetes Risk
+26,Male,16.8,173.8,188.9,137.0,Diabetes Risk
+27,Male,12.2,53.9,211.9,132.0,Normal
+76,Female,16.0,67.5,155.7,126.0,Normal
+74,Female,14.0,111.5,212.6,98.0,Normal
+57,Female,17.8,101.0,202.0,109.0,Normal
+19,Male,13.2,176.4,150.0,107.0,Diabetes Risk
+51,Male,12.6,117.7,198.8,118.0,Normal
+45,Female,12.0,158.7,204.6,117.0,Diabetes Risk
+23,Female,14.0,50.0,165.0,105.0,Normal
+65,Male,14.7,138.5,168.1,125.0,Normal
+43,Male,14.7,85.0,149.7,123.0,Normal
+54,Female,14.4,84.4,172.0,109.0,Normal
+55,Female,15.2,101.3,189.5,125.0,Normal
+25,Male,12.9,60.1,168.2,137.0,Normal
+37,Female,11.3,125.5,130.6,141.0,Anemia Risk
+15,Male,11.1,116.7,162.5,127.0,Anemia Risk
+60,Male,15.9,119.3,173.3,127.0,Normal
+35,Male,14.7,141.0,222.7,116.0,Diabetes Risk
+50,Male,8.9,163.0,213.8,135.0,Anemia Risk
+68,Female,16.2,97.3,223.4,104.0,Normal
+71,Female,18.2,126.7,160.4,134.0,Normal
+15,Male,11.7,120.3,195.7,116.0,Anemia Risk
+77,Male,14.3,123.2,100.0,142.0,Normal
+68,Male,12.3,123.7,207.2,129.0,Normal
+69,Male,15.1,165.7,214.4,119.0,Diabetes Risk
+54,Male,10.6,93.9,175.9,116.0,Anemia Risk
+29,Female,13.3,56.6,201.8,128.0,Normal
+35,Female,16.0,85.6,129.4,127.0,Normal
+61,Female,16.6,136.5,158.0,114.0,Normal
+67,Female,14.6,110.8,220.6,121.0,Normal
+23,Male,12.7,93.6,210.5,133.0,Normal
+66,Male,9.5,72.3,173.5,100.0,Anemia Risk
+71,Male,11.6,117.7,222.5,131.0,Anemia Risk
+40,Male,12.3,132.6,195.5,128.0,Normal
+55,Male,11.8,120.7,169.8,138.0,Anemia Risk
+49,Female,13.6,101.1,182.7,109.0,Normal
+77,Male,12.6,115.1,171.8,120.0,Normal
+39,Female,13.9,114.9,142.6,123.0,Normal
+52,Female,16.5,116.6,240.3,131.0,Cholesterol Risk
+16,Female,12.5,68.5,167.3,126.0,Normal
+21,Female,10.0,116.9,156.7,101.0,Anemia Risk
+48,Male,11.7,94.6,128.8,124.0,Anemia Risk
+31,Female,15.0,146.4,100.0,150.0,Diabetes Risk
+57,Female,15.2,114.7,218.1,129.0,Normal
+73,Female,14.5,139.2,221.7,145.0,Normal
+65,Male,16.8,99.4,237.7,136.0,Normal
+68,Male,13.0,100.7,184.0,140.0,Normal
+38,Male,18.6,162.3,177.1,125.0,Diabetes Risk
+39,Female,15.5,125.3,169.7,128.0,Normal
+66,Female,7.2,85.0,173.3,124.0,Anemia Risk
+47,Male,18.0,141.4,234.8,120.0,Diabetes Risk
+63,Female,11.6,91.3,188.9,131.0,Anemia Risk
+43,Male,10.9,117.9,205.1,112.0,Anemia Risk
+77,Male,14.8,174.3,172.3,148.0,Diabetes Risk
+36,Female,9.2,59.9,242.8,106.0,Anemia Risk
+40,Female,11.8,103.8,113.8,132.0,Anemia Risk
+42,Female,17.4,124.3,141.2,141.0,Normal
+63,Female,14.9,136.8,205.2,117.0,Normal
+63,Male,15.5,66.6,260.0,103.0,Cholesterol Risk
+34,Male,11.9,56.2,181.0,137.0,Anemia Risk
+77,Male,9.7,148.2,156.3,123.0,Anemia Risk
+75,Male,15.3,84.8,230.0,132.0,Normal
+63,Male,15.8,83.3,202.9,118.0,Normal
+15,Female,15.7,164.3,241.6,146.0,Diabetes Risk
+27,Male,14.0,112.4,138.4,88.0,Normal
+65,Male,11.1,112.7,238.5,126.0,Anemia Risk
+70,Male,19.6,103.7,128.1,140.0,Normal
+76,Female,14.7,67.2,178.5,122.0,Normal
+46,Female,13.1,133.6,206.5,125.0,Normal
+44,Female,13.1,124.3,197.4,113.0,Normal
+43,Female,13.9,115.9,232.4,120.0,Normal
+63,Male,16.2,105.9,116.9,95.0,Normal
+59,Male,14.0,99.8,195.6,109.0,Normal
+44,Female,15.6,141.9,238.0,108.0,Diabetes Risk
+30,Female,13.9,105.1,192.4,130.0,Normal
+54,Male,13.2,107.8,144.3,111.0,Normal
+33,Male,15.1,128.5,230.3,112.0,Normal
+32,Female,15.0,117.3,164.1,114.0,Normal
+15,Female,13.1,167.5,157.0,109.0,Diabetes Risk
+61,Female,11.6,50.0,152.0,124.0,Anemia Risk
+52,Female,14.4,120.5,182.1,126.0,Normal
+65,Male,13.7,85.3,197.3,132.0,Normal
+77,Male,12.1,77.0,139.2,130.0,Normal
+18,Male,11.4,94.0,147.5,128.0,Anemia Risk
+15,Female,14.5,111.9,162.2,115.0,Normal
+22,Female,14.9,113.5,151.8,114.0,Normal
+43,Male,12.6,56.9,191.5,107.0,Normal
+69,Male,12.1,91.1,204.4,107.0,Normal
+17,Male,11.4,119.8,199.0,123.0,Anemia Risk
+46,Male,14.5,79.3,199.0,109.0,Normal
+24,Female,11.5,71.0,256.8,142.0,Anemia Risk
+48,Male,19.1,50.0,206.9,119.0,Normal
+69,Male,12.5,86.8,221.4,143.0,Normal
+46,Male,7.4,69.8,173.4,129.0,Anemia Risk
+64,Male,13.4,75.6,227.8,108.0,Normal
+21,Male,13.3,100.5,171.5,119.0,Normal
+22,Male,16.3,89.0,206.5,95.0,Normal
+79,Male,14.2,69.2,135.1,123.0,Normal
+71,Female,11.4,50.0,196.6,110.0,Anemia Risk
+73,Female,12.8,120.6,151.0,103.0,Normal
+68,Female,14.3,136.3,227.4,143.0,Normal
+65,Female,8.1,96.1,225.0,135.0,Anemia Risk
+22,Male,16.8,100.7,171.3,135.0,Normal
+48,Female,11.4,110.1,272.0,132.0,Anemia Risk
+49,Female,17.0,165.3,178.6,101.0,Diabetes Risk
+46,Male,14.5,55.1,125.5,114.0,Normal
+60,Male,15.1,95.5,158.8,115.0,Normal
+30,Female,16.4,50.0,148.2,94.0,Normal
+51,Female,14.9,122.7,205.2,112.0,Normal
+68,Male,15.2,105.0,140.6,112.0,Normal
+28,Female,13.1,117.1,168.4,122.0,Normal
+69,Male,14.4,115.4,202.6,158.0,Normal
+62,Male,12.0,144.7,195.5,120.0,Diabetes Risk
+21,Male,12.6,128.8,189.5,122.0,Normal
+21,Male,18.4,139.1,195.0,116.0,Normal
+47,Female,11.5,72.7,175.2,131.0,Anemia Risk
+37,Male,13.9,151.8,125.8,104.0,Diabetes Risk
+33,Male,13.8,84.7,174.1,148.0,Normal
+33,Female,12.7,86.7,208.7,118.0,Normal
+50,Male,14.8,119.5,184.5,114.0,Normal
+43,Female,15.0,120.6,205.7,135.0,Normal
+74,Female,11.2,72.5,166.5,107.0,Anemia Risk
+16,Female,13.8,103.9,229.8,131.0,Normal
+15,Male,10.8,162.1,100.0,141.0,Anemia Risk
+61,Female,15.5,58.6,195.7,116.0,Normal
+34,Female,13.9,162.0,244.0,151.0,Diabetes Risk
+25,Male,13.7,101.5,249.9,130.0,Cholesterol Risk
+16,Female,15.1,50.0,180.7,130.0,Normal
+26,Female,12.8,62.2,137.0,140.0,Normal
+34,Female,15.8,76.3,244.7,144.0,Cholesterol Risk
+19,Female,11.1,88.2,187.9,124.0,Anemia Risk
+51,Female,17.0,106.3,183.6,132.0,Normal
+52,Male,12.1,50.0,154.3,141.0,Normal
+23,Female,9.3,116.5,140.0,103.0,Anemia Risk
+67,Female,12.7,73.1,212.6,94.0,Normal
+58,Male,12.4,158.7,216.8,119.0,Diabetes Risk
+38,Male,12.7,100.5,198.1,94.0,Normal
+44,Male,14.1,143.0,159.4,115.0,Diabetes Risk
+73,Female,16.2,148.9,147.4,125.0,Diabetes Risk
+28,Male,13.0,147.9,132.7,116.0,Diabetes Risk
+23,Female,11.8,90.2,167.6,118.0,Anemia Risk
+54,Female,10.7,89.7,149.8,105.0,Anemia Risk
+39,Male,12.3,102.1,121.6,132.0,Normal
+36,Male,8.8,132.3,216.1,104.0,Anemia Risk
+18,Female,11.7,92.1,137.2,88.0,Anemia Risk
+40,Male,16.6,105.8,229.4,117.0,Normal
+72,Female,11.4,119.6,205.8,134.0,Anemia Risk
+43,Male,15.1,78.3,201.8,121.0,Normal
+51,Male,10.4,76.1,256.6,103.0,Anemia Risk
+32,Male,17.9,104.5,138.6,122.0,Normal
+56,Female,18.1,109.1,225.0,127.0,Normal
+55,Male,15.0,125.2,178.1,121.0,Normal
+52,Female,18.5,133.5,292.8,116.0,Cholesterol Risk
+48,Female,14.4,71.5,174.8,127.0,Normal
+31,Female,15.4,81.6,168.3,94.0,Normal
+51,Female,16.7,76.0,207.0,107.0,Normal
+39,Male,13.9,159.4,181.6,100.0,Diabetes Risk
+41,Female,9.6,105.8,159.7,140.0,Anemia Risk
+71,Female,15.5,110.6,151.2,131.0,Normal
+45,Male,12.3,112.0,248.3,123.0,Cholesterol Risk
+20,Female,12.5,85.0,143.5,98.0,Normal
+54,Male,14.2,164.7,198.9,131.0,Diabetes Risk
+26,Female,14.9,124.4,232.2,141.0,Normal
+67,Male,13.9,111.4,234.2,129.0,Normal
+24,Female,15.1,71.3,165.9,119.0,Normal
+59,Male,11.7,69.3,181.8,129.0,Anemia Risk
+31,Female,13.4,99.2,174.0,124.0,Normal
+40,Female,15.6,85.5,128.6,134.0,Normal
+76,Male,17.9,72.6,211.5,134.0,Normal
+60,Male,18.8,97.0,191.5,117.0,Normal
+78,Male,14.6,102.4,247.6,110.0,Cholesterol Risk
+16,Male,15.6,115.0,157.1,114.0,Normal
+68,Female,18.5,92.4,233.5,128.0,Normal
+79,Female,11.8,74.7,236.4,115.0,Anemia Risk
+65,Male,15.1,75.9,191.9,109.0,Normal
+67,Female,15.4,152.5,103.2,120.0,Diabetes Risk
+50,Male,17.1,66.2,169.5,137.0,Normal
